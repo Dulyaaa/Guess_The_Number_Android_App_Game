@@ -1,5 +1,5 @@
 # 📱 Guess the Number mobile App
-It's a simple android mobile app game which is my first mobile application. 
+It's a simple android mobile app game which is my `first` mobile application. 
 
 ## Technology
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-orange)
